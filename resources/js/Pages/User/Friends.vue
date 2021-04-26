@@ -13,9 +13,17 @@
                     <li>1</li>
                 </ul>
                 </div>
+                <div>
             <h2 class="my-6 text-2xl font-semibold text-gray-700 dark:text-gray-200">
                Your Friends
             </h2>
+                    <ul>
+                        <li>1</li>
+                        <li>1</li>
+                        <li>1</li>
+                        <li>1</li>
+                    </ul>
+                </div>
             </div>
         </div>
     </user-layout>

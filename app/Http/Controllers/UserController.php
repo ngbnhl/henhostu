@@ -19,4 +19,8 @@ class UserController extends Controller
     public function messages(){
         return Inertia::render('User/Messages');
     }
+
+    public function userdata(){
+        return Inertia::render('User/UserDetails');
+    }
 }

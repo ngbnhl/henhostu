@@ -17,6 +17,7 @@
                  </template>
                  <template v-slot:content>
                      Header content
+
                  </template>
                  <template v-slot:footer>
                      <div class="inline-flex">

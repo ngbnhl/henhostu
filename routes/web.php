@@ -36,3 +36,4 @@ Route::get('/home',[UserController::class, 'home'])->name('home');
 Route::get('/profile',[UserController::class, 'profile'])->name('userprofile');
 Route::get('/friends',[UserController::class, 'friends'])->name('friends');
 Route::get('/messages',[UserController::class, 'messages'])->name('messages');
+Route::get('/userdetail',[UserController::class, 'userdata'])->name('userdata');
