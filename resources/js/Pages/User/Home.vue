@@ -298,6 +298,11 @@
 <script>
 import UserLayout from "../../Layouts/UserLayout";
 export default {
+    metaInfo() {
+        return {
+            title: 'Home',
+        }
+    },
     name: "Home",
     components:{
         UserLayout,
